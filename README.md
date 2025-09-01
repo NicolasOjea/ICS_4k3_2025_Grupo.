@@ -19,7 +19,7 @@ ICS_4k3_2025_Grupo05
 
 Ítems de Configuración
 
-1. Bibliografía
+1.Bibliografía
 Tipo: Material
 Regla de nombrado: NombreLibro_Autor_año.pdf
 Ubicación: /Material/Bibliografia/Tema_X/
