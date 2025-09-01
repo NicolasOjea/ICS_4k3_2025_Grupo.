@@ -70,3 +70,13 @@ Regla de nombrado:
 Regla de nombrado:
   ICS_Planificacion_Nombre
   Formatos: .docx, .pdf
+
+
+Marcaremos una línea base tras la entrega de cada parcial, con una ventana de 72 h para estabilizar y ordenar los distintos ítems de configuración.
+
+
+
+
+
+
+
