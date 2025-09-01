@@ -1,5 +1,6 @@
 # Estructura de directorios
 
+```
 ICS_4k3_2025_Grupo05
 │
 ├── Material
@@ -17,6 +18,8 @@ ICS_4k3_2025_Grupo05
 │       └── N_Tema_X
 │
 └── Planificacion
+```
+
 
 
 # Ítems de Configuración
