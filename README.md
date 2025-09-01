@@ -1,17 +1,18 @@
 ICS_4k3_2025_Grupo05
 │
-├── Materiales
+├── Material
 │   ├── Bibliografia
+│   │   └── Tema_X
 │   ├── Presentaciones
-│   ├── Resumenes
 │   ├── Templates
-│   └── Examenes
-│       ├── Ejercitacion
-│       └── Modelos
+│   └── Resumenes
 │
-├── Trabajos
-│   ├── Tp Investigacion
-│   └── Tp Evaluable
+├── Practicos
+│   ├── TP_investigacion
+│   ├── TP_Evaluables
+│   │   └── TP_N
+│   └── TP_No_Evaluables
+│       └── N_Tema_X
 │
 └── Planificacion
 
