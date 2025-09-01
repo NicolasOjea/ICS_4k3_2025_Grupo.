@@ -1,3 +1,5 @@
+# Estructura de directorios
+
 ICS_4k3_2025_Grupo05
 │
 ├── Material
@@ -17,7 +19,7 @@ ICS_4k3_2025_Grupo05
 └── Planificacion
 
 
-Ítems de Configuración
+# Ítems de Configuración
 
 1.Bibliografía
 Tipo: Material
@@ -53,6 +55,9 @@ Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_Evaluables/TP_N/
 Tipo: Prácticos
 Regla de nombrado: N_NombreDelCaso.pdf
 Ubicación: ICS_4k3_2025_Grupo05/Practicos/TP_No_Evaluables/N_Tema_X/
+
+
+# Criterio de Línea Base
 
 Marcaremos una línea base tras la entrega de cada parcial, con una ventana de 72 h para estabilizar y ordenar los distintos ítems de configuración.
 
