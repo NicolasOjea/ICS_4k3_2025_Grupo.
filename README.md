@@ -18,60 +18,41 @@ ICS_4k3_2025_Grupo05
 
 
 Ítems de Configuración
+
 1. Bibliografía
-  Ruta: \ICS_4k3_2025_Grupo05\Materiales\Bibliografia
-Regla de nombrado:
-  ICS_Bibliografia_"NombreDeTema"_Nombre
-Formatos: .docx, .pdf
+Tipo: Material
+Regla de nombrado: NombreLibro_Autor_año.pdf
+Ubicación: /Material/Bibliografia/Tema_X/
 
-2. Presentación
-  Ruta: \ICS_4k3_2025_Grupo05\Materiales\Presentaciones
-Regla de nombrado:
-  ICS_Presentacion_"Unidad"_Nombre
-Formatos: .pdf, .ppt
+2.Presentaciones
+Tipo: Material
+Regla de nombrado: NroPresentacion_Tema.pdf
+Ubicación: /Material/Presentaciones/
 
-3. Resumen
-  Ruta: \ICS_4k3_2025_Grupo05\Materiales\Resumenes
-Regla de nombrado:
-  ICS_Resumen_"NombreDeTema"_Nombre
-  Formatos: .docx, .pdf
+3.Templates
+Tipo: Material
+Regla de nombrado: NombreTemplate.doc, NombreTemplate.xsl
+Ubicación: /Material/Templates/
 
-4. Template
-  Ruta: \ICS_4k3_2025_Grupo05\Materiales\Templates
-Regla de nombrado:
-  ICS_Template_Nombre
-  Formatos: .docx, .pdf
+4.Resúmenes
+Tipo: Material
+Regla de nombrado: Autor_ResumenICS.doc
+Ubicación: /Material/Resúmenes/
 
-5. Ejercitación
-  Ruta: \ICS_4k3_2025_Grupo05\Materiales\Examenes\Ejercitacion
-Regla de nombrado:
-  ICS_Ejercitacion_"Unidad"_Nombre
-  Formatos: .docx, .pdf
+5.TP_Investigación
+Tipo: Prácticos
+Regla de nombrado: Tipo_Investigacion.doc
+Ubicación: /Practicos/TP_Investigacion/
 
-6. Modelo Parcial
-  Ruta: \ICS_4k3_2025_Grupo05\Materiales\Examenes\Modelos
-Regla de nombrado:
-  ICS_Examenes_"NroParcial"_Nombre
-  Formatos: .docx, .pdf
+6.TP_Evaluables
+Tipo: Prácticos
+Regla de nombrado: Practico_N_Tema_X.pdf
+Ubicación: /Practicos/TP_Evaluables/TP_N/
 
-7. Trabajo Práctico de Investigación
-  Ruta: \ICS_4k3_2025_Grupo05\Trabajos\Tp Investigacion
-Regla de nombrado:
-  ICS_TPInvestigacion_Nombre
-  Formatos: .docx, .pdf
-
-8. Trabajo Práctico Evaluable
-  Ruta: \ICS_4k3_2025_Grupo05\Trabajos\Tp Evaluable
-Regla de nombrado:
-  ICS_TPEvaluable_"NroTP"_Nombre
-  Formatos: .docx, .pdf, .ppt
-
-9. Planificación
-  Ruta: \ICS_4k3_2025_Grupo05\Planificacion
-Regla de nombrado:
-  ICS_Planificacion_Nombre
-  Formatos: .docx, .pdf
-
+7.TP_No_Evaluables
+Tipo: Prácticos
+Regla de nombrado: N_NombreDelCaso.pdf
+Ubicación: /Practicos/TP_No_Evaluables/N_Tema_X/
 
 Marcaremos una línea base tras la entrega de cada parcial, con una ventana de 72 h para estabilizar y ordenar los distintos ítems de configuración.
 
