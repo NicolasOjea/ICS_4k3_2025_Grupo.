@@ -3,7 +3,7 @@
 ```
 ICS_4k3_2025_Grupo05
 │
-├── Material
+├── Materiales
 │   ├── Bibliografia
 │   │   └── Tema_X
 │   ├── Presentaciones
